@@ -1,6 +1,6 @@
-var app = angular.module("DemoProject", ["firebase"]);
+var app = angular.module("WishListProject", ["firebase"]);
 
-app.controller("DemoController", function($scope, $firebaseArray) {
+app.controller("WishListController", function($scope, $firebaseArray) {
     var ref = new Firebase("https://jordanfinnigandemo.firebaseio.com/data");
     
     $scope.entries = $firebaseArray(ref)
