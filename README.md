@@ -1,5 +1,7 @@
 # WishList App
 
+[![Join the chat at https://gitter.im/JadoJodo/DemoProject](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/JadoJodo/DemoProject?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 Basic project in AngularJS w/ Firebase.io/AngularFire. 
 
 App allows a user to input an item name, url, their name, and priority for planning purposes. Potential for sharing shopping needs between spouses/groups. Example:
