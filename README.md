@@ -1,5 +1,11 @@
 # WishList App
 
-Basic project in AngularJS w/ Firebase.io/AngularFire. App allows users to input an item name, url, your name, and priority. Potential for sharing shopping needs between spouses/groups. Based on an idea I've had for my wife and I to use, as it's difficult to know what items the other person might need that aren't urgent/needs (vs wants). 
+Basic project in AngularJS w/ Firebase.io/AngularFire. 
+
+App allows a user to input an item name, url, their name, and priority for planning purposes. Potential for sharing shopping needs between spouses/groups. Example:
+
+John and Jane are a couple who share shopping responsibilites. Jane needs a new computer monitor in the next few days. John needs a new set of tires for his car in the next few weeks. Both enter their future purchases, as well as the URL and priority. Now both can see the items they'll need to budget for soon.
+
+
 
 Demo available here: https://demoproject-jadojodo-1.c9.io/index.html
